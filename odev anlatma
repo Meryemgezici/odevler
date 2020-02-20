@@ -1,0 +1,19 @@
+Evet.Öncelikle yapacağım sekilleri defterime cizip mantığı nasıl, nasıl yapmalıyım ,neler kullanmalıyım diye çizdim.Şu şekilde:
+      * 3 bosluk 1 yildiz
+     *** 2 bosluk 3 yildiz
+    ***** 1 bosluk 5 yildiz
+   ******* 0 bosluk 7 yildiz Burdanda anlasildigi uzere bosluklar bir bir azalicak yildizlar iki iki articak 
+                                    ***** 0 bosluk 5 yildiz
+		                                 ***  1 bosluk 3 yildi
+                                      *   2 bosluk 1 yildiz  burdan bosluklar bir bir articak yildizlar iki iki azalicak.Elmasda bunlarin birlesimi.
+
+->Bu programda beş tane fonksiyon tanımladım duz_ucgen,ters_ucgen,elmas_cizme,menu ve main fonksiyonu.
+->Menu fonksiyonunda switch kullandim.
+->Sonra main fonksiyonu icinde kullanicidan boyut ve cizmek istediği şekli istedim.
+->Kullanıcının girdiği degerler belli araliklarda çizimi saglar.
+->duz_ucgende sadece for dongusu kullandim.
+->ters_ucgende sadece while dongusu kullandım.
+->Elmasda ise iki fonksiyonu cagirdim.
+->kullanici belirttiğim aralıklar dısında uc defa sayi girince programdan cıkar.Bunu icinde basta for yaptım olmadi sonra while ile yaptım.bu kadar :)
+
+ 
