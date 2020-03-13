@@ -17,4 +17,4 @@ sıralayarak ekrana bastıran bir global fonksiyon yazılmalıdır. Main fonksiy
 edilmelidir.
 
 -->Bunları yapabilmek icin oncelikle kagida nasil yapmam gerektigini neler kullanmam gerektigini yazdim.Daha sonra kodu yazmaya
-çalıştım.Aldigimiz degerleri karmasik sayiya cevirme kısmında baya takıldım.Vektor kısmını yapamadim hocam olmadi:(.
+çalıştım.Aldigimiz degerleri karmasik sayiya cevirme kısmında baya takıldım.Vektor kısmını yapamadim hocam olmadi:(
